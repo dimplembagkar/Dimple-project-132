@@ -1,0 +1,41 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status
+{
+    font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#page
+{
+   background-color: white;
+   font-style: italic; 
+   font-family: cursive;
+   width: 300px;
+   border-radius: 20px;
+   font-weight: bold;
+   font-size: 20px;
+}
+
+#go_Back
+{
+    background-color: black;
+    float: right;
+    color: white;
+}
